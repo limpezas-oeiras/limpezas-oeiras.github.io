@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Oeiras Limpezas</title>
+    <link href="https://limpezas-oeiras.github.io/feed.xml" rel="self" />
+    <link href="https://limpezas-oeiras.github.io" />
+    <updated>2019-12-08T11:50:20+00:00</updated>
+    <author>
+        <name>Bliz</name>
+    </author>
+    <id>https://limpezas-oeiras.github.io</id>
+
+    <entry>
+        <title>Bliz Limpezas</title>
+        <author>
+            <name>Bliz</name>
+        </author>
+        <link href="https://limpezas-oeiras.github.io/bliz-limpezas.html"/>
+        <id>https://limpezas-oeiras.github.io/bliz-limpezas.html</id>
+
+        <updated>2019-10-07T17:44:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Bliz LimpezasBliz Limpezas
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="mcetoc_1dmj985d10">Bliz Limpezas</h2>
+<p>Bliz Limpezas</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
