@@ -5,23 +5,24 @@
     "home_page_url": "https://limpezas-oeiras.github.io",
     "feed_url": "https://limpezas-oeiras.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://limpezas-oeiras.github.io/media/website/logo-empresa-limpezas-amadora.png",
     "author": {
         "name": "Bliz"
     },
     "items": [
         {
-            "id": "https://limpezas-oeiras.github.io/bliz-limpezas.html",
-            "url": "https://limpezas-oeiras.github.io/bliz-limpezas.html",
-            "title": "Bliz Limpezas",
-            "summary": "Bliz LimpezasBliz Limpezas",
-            "content_html": "<h2 id=\"mcetoc_1dmj985d10\">Bliz Limpezas</h2>\n<p>Bliz Limpezas</p>",
+            "id": "https://limpezas-oeiras.github.io/oeiras-limpezas.html",
+            "url": "https://limpezas-oeiras.github.io/oeiras-limpezas.html",
+            "title": "Oeiras Limpezas",
+            "summary": "Oeiras LimpezasOeiras Limpezas",
+            "content_html": "<h2 id=\"mcetoc_1dmj985d10\">Oeiras Limpezas</h2>\n<p>Oeiras Limpezas</p>",
             "author": {
                 "name": "Bliz"
             },
             "tags": [
             ],
             "date_published": "2019-10-07T15:16:54+01:00",
-            "date_modified": "2019-10-07T17:44:00+01:00"
+            "date_modified": "2019-12-08T12:09:21+00:00"
         }
     ]
 }
